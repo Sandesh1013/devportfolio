@@ -1,3 +1,4 @@
+ <!--  descritpion for navigation bar  -->
 <template>
   <v-col dark cols="12" sm="12" md="12" class="my-4">
     <v-card color="grey lighten-4" flat height="64px">
